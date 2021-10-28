@@ -3,7 +3,7 @@
 # Description: Instagram bruter
 
 # from lib.proxy import Proxy
-import os
+
 import time
 from sys import exit
 from lib import database
