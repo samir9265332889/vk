@@ -4,7 +4,7 @@
 
 # from lib.proxy import Proxy
 
-import time
+import time 12:35
 from sys import exit
 from lib import database
 from lib.proxy_manager import ProxyManager
